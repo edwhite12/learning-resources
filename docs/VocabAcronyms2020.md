@@ -1,12 +1,12 @@
 ## Vocabulary
 
-This page explains some of the terms encountered during Cyberseminars and links to resources on where to learn more about them.
+This page explains some of the terms encountered during Cyberseminars and Online Tutorials with links to resources on where to learn more about them.
 
 ### Platforms
 
-__Hydroshare__ -  an online, collaborative Hydrologic Information System for sharing hydrologic data, models, and code.
+__Hydroshare__ -  an online, collaborative Hydrologic Information System for sharing hydrologic data, models, and code. www.hydroshare.org
 
-__Public Cloud__ - publicly accessible to anyone for scalable research computing supported by commercial platforms. Option 1: write a proposal to include funding to pay for the cloud.
+__Public Cloud__ - publicly accessible to anyone for scalable research computing supported by commercial platforms. Option 1: write a proposal to include funding to pay for the cloud. 
 
 __Publicly Funded Research and Education Cloud__ - Federal resources are available to support you and your research computing needs, as well as research community software development and cyberinfrastructure. National Science Foundation funded platforms like CUAHSI JuptyerHub, CyberGIS for Water, The Extreme Science and Engineering Discovery Environment (XSEDE). Option 2: write a proposal to access the compute resources for your research. HydroShare and Jupyterhub teams have done the work to make it easy to launch 'to cloud' this week - that is one server (now on Google, used to be RENCI in North Carolina) that CUAHSI pays for as part of [our collaborative NSF CyberTraining grant](https://nsf.gov/awardsearch/showAward?AWD_ID=1829585&HistoricalAwards=false).
 
