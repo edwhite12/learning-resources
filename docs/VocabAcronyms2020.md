@@ -4,8 +4,11 @@ This page explains some of the terms encountered during Cyberseminars and links 
 
 ### Platforms
 
-Hydroshare: an online, collaborative Hydrologic Information System for sharing hydrologic data, models, and code.
+__Hydroshare__ -  an online, collaborative Hydrologic Information System for sharing hydrologic data, models, and code.
 
+__Public Cloud__ - publicly accessible to anyone for scalable research computing supported by commercial platforms. Option 1: write a proposal to include funding to pay for the cloud.
+
+__Publicly Funded Research and Education Cloud__ - Federal resources are available to support you and your research computing needs, as well as research community software development and cyberinfrastructure. National Science Foundation funded platforms like CUAHSI JuptyerHub, CyberGIS for Water, The Extreme Science and Engineering Discovery Environment (XSEDE). Option 2: write a proposal to access the compute resources for your research. HydroShare and Jupyterhub teams have done the work to make it easy to launch 'to cloud' this week - that is one server (now on Google, used to be RENCI in North Carolina) that CUAHSI pays for as part of [our collaborative NSF CyberTraining grant](https://nsf.gov/awardsearch/showAward?AWD_ID=1829585&HistoricalAwards=false).
 
 ### Software Libraries
 
@@ -41,9 +44,7 @@ __NCSA__ - National Center for Supercomputing Applications at University of Illi
 
 __ROGER__ - Resourcing Open Geospatial Education and Research and the Father of GIS, Roger Tomlinson) is the world's first-ever CyberGIS Supercomputer designed especially for computationally intensive geospatial data processing and analysis. ROGER is managed by NCSA at the CyberGIS Center for Advanced Digital and Spatial Studies
 
-__Public Cloud__ - publicly accessible to anyone for scalable research computing supported by commercial platforms. Option 1: write a proposal to include funding to pay for the cloud.
 
-__Publicly Funded Research and Education Cloud__ - Federal resources are available to support you and your research computing needs, as well as research community software development and cyberinfrastructure. National Science Foundation funded platforms like CUAHSI JuptyerHub, CyberGIS for Water, The Extreme Science and Engineering Discovery Environment (XSEDE). Option 2: write a proposal to access the compute resources for your research. HydroShare and Jupyterhub teams have done the work to make it easy to launch 'to cloud' this week - that is one server (now on Google, used to be RENCI in North Carolina) that CUAHSI pays for as part of [our collaborative NSF CyberTraining grant](https://nsf.gov/awardsearch/showAward?AWD_ID=1829585&HistoricalAwards=false).
 
 ## Team Science 
 The mission of Canary Opera at Waterhackweek is to facilitate an open work platform so that all participants can learn without hindrance, freely create new innovations, and share ideas -- with shared benefits for the learning community and broader impacts on society.  [Contribute more at Canary Opera](https://github.com/canaryopera/learning-resources)
