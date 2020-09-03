@@ -1,28 +1,46 @@
 # Overview of Logistics
 
-## Time
+## QiqoChat
 
-OceanHackWeek 2020 will take place **online** daily, during the period 11am-2pm PDT / 2pm-5pm EDT / 18:00-21:00 UTC on August 10-14. Tutorials will cover data science topics, followed by project hacking in the afternoon. [Pre-hackweek OPTIONAL activities](../schedule.md#pre-hackweek-optional-tutorials) will be on August 6-7. See [Tutorial schedule](../schedule.md#tutorials) for details.
+Waterhackweek will rely on [QiqoChat](https://qiqochat.com) as our virtual platform for the week. QiqoChat is a wrapper for Zoom (and other applications) that allows us to create detailed calendar events and manage video breakout rooms.
 
-## Channel of communication: Slack
+Get started on the Waterhackweek QiqoChat by going to [https://waterhack.qiqochat.com](https://waterhack.qiqochat.com) and creating your profile!
 
-We will use the [OceanHackWeek Slack workspace](http://oceanhackweek.slack.com/) as the main channel of communication before, during, and after the hackweek. You should have received an invitation to join this workspace. If you haven't seen it in your inbox, check your spam folder, or email us at *oceanhkw@uw.edu*.
+- Make sure to add a profile picture!
+- Add your skills: Red for skills you want to learn, yellow for skills you have, and green for skills you can teach.
+- Check out the Member directory to visualize our cohort and our skillsets.
 
-[go directly from a channel or direct message chat into a voice or video chat](https://slack.com/help/articles/216771908-Make-calls-in-Slack), with screen-sharing capability. This will be particularly useful during hack project time.
+Within the main Waterhack QiqoChat "circle", we can collaborate and meet online year-round through different events. Check out the events page, [https://waterhack.qiqochat.com/events](https://waterhack.qiqochat.com/events). You can easily convert your calendar events to your time zone on this page.
 
-## OHW JupyterHub ("The Hub") and GitHub
+Waterhackweek 2020 activities will take place within the Waterhackweek 2020 event.
 
-- OHW JupyterHub ("The Hub"): [https://ocean.hackweek.io](https://ocean.hackweek.io)
-- OHW GitHub organization: [https://github.com/oceanhackweek](https://github.com/oceanhackweek)
+## Time, Schedule
 
-## Tutorials broadcasting
+Waterhackweek 2020 will take place online daily, during the period 8am-4pm PDT / 11am-7pm EDT / 15:00-23:00 UTC August 31 - September 4.
 
-We will use Zoom to broadcast all tutorials. The Zoom link will be distributed via Slack.
+The **detailed schedule** can be found [here](https://waterhack.sched.com); this schedule is hosted on the [Sched](https://sched.com) system.
+
+## Communicating via Slack chat
+
+We will use the [{{hackweek.name}} Slack workspace]({{hackweek.slack_url}}) as the main channel of chat communication during the hackweek, in addition to communication via QiqoChat. You should have received an invitation to join this workspace. If you haven't seen it in your inbox, check your spam folder, or email us at *{{hackweek.email}}*.
+
+## HydroShare, JupyterHub and GitHub
+
+- HydroShare: [https://hydroshare.org](https://hydroshare.org)
+- {{hackweek.name}} JupyterHub: [{{hackweek.jupyterhub_url}}]({{hackweek.jupyterhub_url}})
+- {{hackweek.name}} GitHub organization: [{{hackweek.github_org_url}}]({{hackweek.github_org_url}})
 
 ## Hack projects
 
-See [Project overview](../projects/overview.md) and [Hacking at OHW20](../projects/steps.md) for more info.
+See the [Projects page](../project.md) for more information about projects.
 
-## Getting Help
+## Presentation Recordings
 
-See the [Getting Help page](getting_help.md) for guidance and links to have your questions answered or connect with organizers with concerns.
+Waterhackweek 2020 presentation recordings are posted to the [Waterhackweek 2020 Learning Resources HydroShare resource](https://www.hydroshare.org/resource/c59689b403b3484182b016fbcd0267ac/) within a couple of hours. They are in turn posted to the [Waterhackweek YouTube playlist](https://www.youtube.com/playlist?list=PLA6PlfxWZPLT2T23wUNK9W3tbfSLu2EM_) afterwards, typically not the same day.
+
+Recordings from the Waterhackweek 2020 Cyberseminars from early 2020 are found on the ["2020 Cyberseminar Series: Waterhackweek" CUAHSI YouTube playlist](https://www.youtube.com/playlist?list=PLPG5Ed5L1SY4WilQpJF072zd4jGfCmnDv).
+
+<!-- ## Getting Help
+
+See the [Getting Help page](getting_help.md) for guidance and links to have your questions answered or connect with organizers with concerns. 
+-->

@@ -4,28 +4,27 @@ repo_url: https://github.com/waterhackweek/learning-resources
 nav:
   - Overview:
     - Introduction: index.md
-    - Code of Conduct: conduct.md
+    - Code of Conduct: canaryopera/codeofconduct.md
     - Diversity Statement: diversityMethods.md
-  # - Logistics: 
-  #   - Overview and Schedule: logistics/overview.md
-  #   - Getting Help: logistics/getting_help.md
+  - Logistics: 
+    - Overview and Schedule: logistics/overview.md
+    # - Getting Help: logistics/getting_help.md
   - Pre-event Preparation:
     - Git: prep/git.md
     - GitHub: prep/github.md
     - Jupyter and JupyterHub: prep/jupyterhub.md
+    # - Scientific Python Ecosystem: prep/pythonecosystem.md
     # - Python and conda
-    # - Python Ecosystem: prep/pythonecosystem.md
     # - HydroShare: hydroshare.md
     # - Binder: binder.md
-    # - Github: github.md
     # - Conda: conda.md
     # - Conda, Python, R: prep/conda.md
     # - Python Requirements: preweek/python.md
-  # - Tutorials:
-  #   - Getting Started: tutorials/getting_started.md
-  #   - Numpy: numpy.md
-  #   - Pandas: pandas.md
-    # - GEE Access and Javascript Tips: gee_javascript.md
+  - Tutorials:
+    # - Getting Started: tutorials/getting_started.md
+    - Numpy: numpy.md
+    - Pandas: pandas.md
+    - GEE Access and Javascript Tips: gee_javascript.md
   - Projects:
     - Roles and Responsibilities: project.md
   - Reference:
@@ -59,4 +58,4 @@ extra:
     jupyterhub_url: https://jupyterhub.cuahsi.org
     cyberseminar_url: https://www.cuahsi.org/education/cyberseminars/waterhackweek-cyberseminar-series
     admin_contact: Owen Freed
-    email: fwi@uw.edu
+    email: waterhackweek@uw.edu

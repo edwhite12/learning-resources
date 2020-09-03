@@ -1,8 +1,10 @@
-# Python Ecosystem
+# Scientific Python Ecosystem
 
 conda, installation:
+- https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/
 - https://carpentrieslab.github.io/python-aos-lesson/01-conda/index.html
-
+- http://bebi103.caltech.edu.s3-website-us-east-1.amazonaws.com/2019a/content/lessons/lesson_00/l00a_python_for_scientific_computing.html
+- https://github.com/csdms/espin/blob/main/lessons/conda/index.md
 
 ## From Jupyter Book
 
@@ -18,6 +20,8 @@ Among the vast number of packages in the Python ecosystem, NumPy, Scipy, Matplot
 ## Other
 
 - Yifan's and Steven's tutorials will cover some of the basics of numpy, matplotlib and pandas
+  - Numpy: https://github.com/waterhackweek/waterdata/blob/master/gridded_data_tutorial_0.ipynb
+  - xarray: https://github.com/waterhackweek/waterdata/blob/master/gridded_data_tutorial_1.ipynb
 
 - From OHW20: Jupyter and Scientific Python basics: numpy, pandas, matplotlib. [Jupyter notebooks](https://github.com/oceanhackweek/ohw-preweek/tree/master/data-analysis-modules) — [video](https://youtu.be/CTUAgpvfze0)
 
@@ -25,6 +29,8 @@ Among the vast number of packages in the Python ecosystem, NumPy, Scipy, Matplot
 - Pandas: https://scipy-lectures.org/packages/statistics/index.html#data-representation-and-interaction
 
 - https://unidata.github.io/python-training/workshop/workshop-intro/
+
+- [UW Geospatial Data Analysis with Python class](https://github.com/UW-GDA/gda_course_2020). From David Shean. Based on Jupyter notebooks. Has great additional resources.
 
 ## Beyond numpy, matplotlib, pandas
 

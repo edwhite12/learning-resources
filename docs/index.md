@@ -6,6 +6,26 @@ Welcome to the [{{ hackweek.name }}]({{ hackweek.web_url }}) hackweek! Hackweeks
 
 This preliminary tutorial is one that we would like you to complete before arriving to the hackweek. The purpose is to learn about how we plan to work with various software tools and how you can best prepare for our event. We would like everyone works through this tutorial so that we can make the best use of our time together in person.
 
+## Presentations and tutorials
+
+Waterhackweek 2020 presentation recordings are posted to the [Waterhackweek 2020 Learning Resources HydroShare resource](https://www.hydroshare.org/resource/c59689b403b3484182b016fbcd0267ac/) within a couple of hours. They are in turn posted to the [Waterhackweek YouTube playlist](https://www.youtube.com/playlist?list=PLA6PlfxWZPLT2T23wUNK9W3tbfSLu2EM_) afterwards, typically not the same day.
+
+### Monday
+
+- [Welcome](https://docs.google.com/presentation/d/1JFsGuSE6u8mde2Vh1AzTsBKd2tAienZwKd0YUoz-NUQ/edit?usp=sharing)
+- [Mixer](https://docs.google.com/presentation/d/1mFXq31CSaaIra6VrgYTtwmotg5RSwfWXV3ojXMo5Hek/edit#slide=id.g9356799a8a_0_0)
+- [HydroShare and WaterHackWeek JupyterHub](https://docs.google.com/presentation/d/1pGIknePYSVs_iG50-wvdruJOzvQaPZd6/edit#slide=id.g9360943ffc_1_15)
+- [Projects](https://docs.google.com/presentation/d/1HvUTjcCWSFvIEIz-dXk5JTKVsgNkIXjriYA5dxtJrHo/edit?usp=sharing)
+
+### Tuesday
+
+See [here](https://github.com/waterhackweek/waterdata/blob/master/README.md) for access to all the tutorial materials this day.
+
+### Wednesday
+
+- Introduction to Machine Learning. Repositories at [water_hackweek_2020_machine_learning](https://github.com/amueller/water_hackweek_2020_machine_learning) and [waterhackweek/ml-workshop-1-of-4](https://github.com/waterhackweek/ml-workshop-1-of-4)
+- [Cloud Computing](https://github.com/waterhackweek/learning-resources/tree/master/extradocs/whw20-CloudComputing-RobFatland.pdf)
+
 
 ## What is the format of this event?
 
@@ -41,17 +61,10 @@ We require all participants to work through the following lessons in advance of 
 
 ### Setting up your laptop and getting access to computing resources
 
-* [Introduction to Github](github.md): setting up a GitHub account
+<!-- * [Introduction to Github](github.md): setting up a GitHub account -->
 <!--* [Lesson 2](jupyterhub.md): connecting to our shared cloud computing environment-->
 * [Introduction to Conda](conda.md): installing Python on your laptop
 * [GEE Access and Javascript Tips](gee_javascript.md): setting up Google Earth Engine account
-
-### Learning Python Basics
-
-Self-working notebooks to understand practical aspects of Numpy and Pandas
-
-* [Introduction to Numpy](numpy.md)
-* [Introduction to Pandas](pandas.md)
 
 
 ## How do I ask questions about the Hackweek?
