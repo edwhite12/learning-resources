@@ -44,3 +44,27 @@ __ROGER__ - Resourcing Open Geospatial Education and Research and the Father of 
 __Public Cloud__ - publicly accessible to anyone for scalable research computing supported by commercial platforms. Option 1: write a proposal to include funding to pay for the cloud.
 
 __Publicly Funded Research and Education Cloud__ - Federal resources are available to support you and your research computing needs, as well as research community software development and cyberinfrastructure. National Science Foundation funded platforms like CUAHSI JuptyerHub, CyberGIS for Water, The Extreme Science and Engineering Discovery Environment (XSEDE). Option 2: write a proposal to access the compute resources for your research. HydroShare and Jupyterhub teams have done the work to make it easy to launch 'to cloud' this week - that is one server (now on Google, used to be RENCI in North Carolina) that CUAHSI pays for as part of [our collaborative NSF CyberTraining grant](https://nsf.gov/awardsearch/showAward?AWD_ID=1829585&HistoricalAwards=false).
+
+## Team Science 
+The mission of Canary Opera at Waterhackweek is to facilitate an open work platform so that all participants can learn without hindrance, freely create new innovations, and share ideas -- with shared benefits for the learning community and broader impacts on society.  [Contribute more at Canary Opera](https://github.com/canaryopera/learning-resources)
+
+Canary: a domesticated bird that belongs to the finch family, a songbird that originated from the Canary Islands. Among their breed, only male canary birds have the ability to sing.
+
+Canary in the coal mine: Someone/something that is an early warning of danger.
+
+Canary as a metaphor: yellow, sun, reflection provides energy, spreading light, eliminating darkness.
+
+Canary as a symbol: A flying canary is a symbol of freedom.
+
+Canary as a totem: The Canary teaches us the power of one's voice, to control speaking abilities, and to listen to your inner-self. The ability to strategically raise and lower voice results in a unique chirped melody; a canary provides power to control your voice, feelings, and emotions in order to heal; to breathe fresh air and live freely without hindrance.
+
+Canary Opera: a community development mechanism used in workshops to highlight positive things in self, life, and work. The opera is a metaphor for learning that is shared by a group of people by spreading joy while addressing difficult and uncomfortable roadblocks to learning. The blend of opposite challenges and achievements can bring new ideas, innovation, and geohealth, broadly inclusive of personal, workplace, community, planetary systems.
+
+
+### Resources and References
+[The Story of the Real Canary in the Coal Mine | Smart News ...www.smithsonianmag.com › smart-news › story-real-ca...](https://www.smithsonianmag.com/smart-news/story-real-canary-coal-mine-180961570/)  Dec 30, 2016 - On this day in 1986, a mining tradition dating back to 1911 ended.
+
+[BBC ON THIS DAY Dec| 30 | 1986: Coal mine canaries made redundant](http://news.bbc.co.uk/onthisday/hi/dates/stories/december/30/newsid_2547000/2547587.stm), the use of canaries in coal mines to detect carbon monoxide and other toxic gases before they hurt humans. ... If the animal became ill or died, that would give miners a warning to evacuate. More than 200 canary birds were phased out of Britain's mining pits, according to new plans by the government. ... New electronic detectors will replace the bird because they are said to be cheaper in the long run and more effective in indicating the presence of pollutants in the air otherwise unnoticed by miners.
+
+[Canary in the Coal Mine: The Arctic as a National Imperative](https://www.cfr.org/blog/canary-coal-mine-arctic-national-imperative); March, 2017 The Arctic is changing rapidly. ... It is warming at twice the rate as the rest of the planet, causing sea ice to melt and water levels to rise. The looming question, of course, is whether this report’s grave findings and urgent recommendations will find a receptive audience in Washington—or instead, fall on deaf ears.
+
