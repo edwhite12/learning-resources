@@ -12,6 +12,7 @@
 * Team and Project Investigators have clear governance for managing contributions, intellectual property, and constituent practices of multiple institutions and individuals. 
 * Public hyperlink to publicly accessible Research Product with DOI
 
+## Terms and How we make meaning
 - Versions: Alpha Release 0.0.1, Beta Internal Coordinated Review Process Release 0.0.1, Beta External Coordinated Review Process Release 0.1, Public Release 1.0
 -  Review Process: resource hyperlink coordination with digital governance and tracking for journal publication contirbutions, software, curriculum, training materials, and any other digital products.
 -  Open Product Leader: funded, volunteer, student or professional in research and education open source community software development, platform, and interface testing
@@ -23,8 +24,11 @@
 
 ### Canary Opera GeoHealth Methods and Model
 What motivates us: EARTH, HEALTH and ENVIRONMENT
+
 Who from GEO: infrastrucuture design, mineralogists, physicians, soil scientists, toxicologists, geochemists, veterinarians, biologists, chemists and many other specialists
+
 Who from HEALTH: epidimeologist, infectious disease, behavioral health, public health, biomedical informatics, clinical data science
+
 Who from ENVIRONMENT: engineering, water resource managers, cultural resources, environmental policy managers
 
 ### Canary Opera Scope of Engagement:
