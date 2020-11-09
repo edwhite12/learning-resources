@@ -1,4 +1,4 @@
-# Waterhackweek Learning Resources site
+# Water Research Learning Resources site
 
 Waterhackweek, [https://waterhackweek.github.io](https://waterhackweek.github.io). The Waterhackweek Learning Resources site is accessible at [https://waterhackweek.github.io/learning-resources](https://waterhackweek.github.io/learning-resources)
 
