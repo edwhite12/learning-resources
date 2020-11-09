@@ -34,6 +34,8 @@ __WHW__: Waterhackweek :)
 
 __CUAHSI__: The Consortium of Universities for the Advancement of Hydrologic Science, Inc. is a 501(c) 3 research organization representing more than 100 U.S. universities and international water science-related organizations.  In addition to HydroShare NSF PI and community support, CUAHSI will maintain, develop and support HydroShare infrastructure and users. 
 
+__CUAHSI_VU__: CUAHSI Virtual University - an online, three-module collaborative learning platform for graduate students who attend a university that is a member of CUAHSI. 
+
 __XSEDE__: The Extreme Science and Engineering Discovery Environment (XSEDE) is a single virtual system that scientists can use to interactively share computing resources, data and expertise.
 
 __CyberGIS__  - a center at the University of Illinois at Urbana-Champaign for Advanced Digital and Spatial Studies. They support big geospatial data solutions in many areas of scholarship, ranging from engineering and science to the humanities.
