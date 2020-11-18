@@ -2,8 +2,9 @@
 ## Notebook 1: [Nooksack Watershed Lapse Rates 2016](https://www.hydroshare.org/resource/222e832d3df24dea9bae9bbeb6f4219d/)
 - [Bandaragoda et al., 2020](https://doi.org/10.1016/j.dib.2020.105578)
 - the file paths did not match the default folder structure that was generated when I opened this notebook in jupyterhub
-- the numpy text encoder was not able to decode the datetime strings in the 2016 lapse dataset - there was a Unicode Decode Error thrown
+- the numpy text encoder was not able to decode the datetime strings in the 2016 lapse dataset - there was a Unicode Decode Error thrown![image](https://github.com/edwhite12/learning-resources/blob/master/Nooksack_error.PNG)
 - this error could be an issue with the python kernel I was using. I used the whw kernel - and the error message looks like it may not have the required codecs for installed
+
 - I used this whw kernel, however, it still looks like the kernels do not have the necessary dependencies
 
  ## Notebook 2: [RAPID National Water Model Github repository](https://github.com/rapid-research/tutorial_rapid-nationalwatermodel)
