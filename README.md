@@ -1,4 +1,4 @@
-# learning-resources
+# Learning resources for Eric White in the CUAHSI Virtual University Digital Water course - Fall 2020
 ## Notebook 1: [Nooksack Watershed Lapse Rates 2016](https://www.hydroshare.org/resource/222e832d3df24dea9bae9bbeb6f4219d/)
 - [Bandaragoda et al., 2020](https://doi.org/10.1016/j.dib.2020.105578)
 - the file paths did not match the default folder structure that was generated when I opened this notebook in jupyterhub
