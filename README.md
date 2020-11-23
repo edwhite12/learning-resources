@@ -33,3 +33,5 @@
 - Iterating over these lists with NwmHs.get_data, I can prepare the runoff hydrographs that I need as an upstream boundary condition in my model runs.
 - I will need to sort out the dates, as well as sort out the archives that are available. I will need to dig through the Github documentation and other documents in Hydroshare to find the information that I need.
 
+## Additional links from lecture:
+https://www.hydroshare.org/resource/01fb1caf21fc45fb9ac1257bb276bc7a/
