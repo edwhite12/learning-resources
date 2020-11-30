@@ -35,3 +35,5 @@
 
 ## Additional links from lecture:
 https://www.hydroshare.org/resource/01fb1caf21fc45fb9ac1257bb276bc7a/
+
+In a notebook cell - if you precede the code with !, it will run that cell in bash instead of python
