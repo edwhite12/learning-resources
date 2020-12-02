@@ -48,6 +48,8 @@ Additional documentation on variables and metadata are linked directly in the Ju
 
 # Additional Resources:
 [NWM Dockerized Job Scheduler](https://github.com/aaraney/NWM-Dockerized-Job-Scheduler)
+
 [Tony's Subset Tool](https://subset.cuahsi.org/)
+
 [2019 AGU Abstract](https://ui.adsabs.harvard.edu/abs/2019AGUFM.H51D..04T/abstract)
 
