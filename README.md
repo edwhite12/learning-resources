@@ -44,4 +44,6 @@ The backbone for this notebook was originally prepared by Tony Castronova in 201
 
 This version is customized by Eric White for use in his dissertation research looking at routing a variety of hydrographs using multiple algorithms and ultimately comparing the modeled hydrographs to those simuluated by the NWM. The customized notebook is saved in the [Digital Water Course shared Hydroshare resource](https://www.hydroshare.org/resource/01fb1caf21fc45fb9ac1257bb276bc7a/) and is called NWM_subsetting.pynb.
 
+Additional documentation on variables and metadata are linked directly in the Jupyter Notebook; and a general overview is well summarized on [the NWM.py documentation page](https://nwm.readthedocs.io/en/latest/).
+
 
