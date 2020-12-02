@@ -1,4 +1,9 @@
 # Learning resources for Eric White in the CUAHSI Virtual University Digital Water course - Fall 2020
+
+My AGU [ePoster](https://agu2020fallmeeting-agu.ipostersessions.com/default.aspx?s=1E-F8-CA-25-21-94-C5-4A-A0-1B-6D-F2-89-0D-BF-78&guestview=true) has been (tentatively) assigned a DOI: [1002/essoar.10505110.1](https://doi.org/10.1002/essoar.10505110.1).
+
+I have processed three Jupyter notebooks for this course - with varying degrees of success. The first notebook had issues with Python dependencies and data encoding and I was unsuccessful in getting it to run. The second notebook required checking out a Github repo to my HydroShare Jupyter server, but it worked without issue. The final notebook I followed and edited for my own research needs, was similar to the second, in that it was focused on accessing National Water Model forecast archives. However, rather than use the HydroShare Viewer wrapper, it utilizes OpenDAP access to the Thredds databases that store the NWM archives.
+
 ## Notebook 1: [Nooksack Watershed Lapse Rates 2016](https://www.hydroshare.org/resource/222e832d3df24dea9bae9bbeb6f4219d/)
 - [Bandaragoda et al., 2020](https://doi.org/10.1016/j.dib.2020.105578)
 - the file paths did not match the default folder structure that was generated when I opened this notebook in jupyterhub
@@ -32,8 +37,11 @@
     - basin = ['123456','654321','135790']
 - Iterating over these lists with NwmHs.get_data, I can prepare the runoff hydrographs that I need as an upstream boundary condition in my model runs.
 - I will need to sort out the dates, as well as sort out the archives that are available. I will need to dig through the Github documentation and other documents in Hydroshare to find the information that I need.
+- miscellaneous note: In a notebook cell - if you precede the code with !, it will run that cell in bash instead of python
 
-## Additional links from lecture:
-https://www.hydroshare.org/resource/01fb1caf21fc45fb9ac1257bb276bc7a/
+ ## Notebook 3: [Subsetting the National Water Model forecast archives](https://www.hydroshare.org/resource/3db192783bcb4599bab36d43fc3413db/)
+The backbone for this notebook was originally prepared by Tony Castronova in 2018 as a tutorial for the Summer Institute at the NWC. The original notebook is available as a Hydroshare Resource called [Hurricane Harvey NWM Subsetting Exercise](https://www.hydroshare.org/resource/3db192783bcb4599bab36d43fc3413db/).
 
-In a notebook cell - if you precede the code with !, it will run that cell in bash instead of python
+This version is customized by Eric White for use in his dissertation research looking at routing a variety of hydrographs using multiple algorithms and ultimately comparing the modeled hydrographs to those simuluated by the NWM. The customized notebook is saved in the [Digital Water Course shared Hydroshare resource](https://www.hydroshare.org/resource/01fb1caf21fc45fb9ac1257bb276bc7a/) and is called NWM_subsetting.pynb.
+
+
